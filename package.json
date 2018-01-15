@@ -1,0 +1,19 @@
+{
+  "name": "service-now",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Sanchit Saxena <saxena_sanchit@lilly.com>",
+  "dependencies": {
+    "compression": "^1.6.2",
+    "debug": "~2.2.0",
+    "ejs": "2.5.6",
+    "express": "~4.14.0",
+    "express-handlebars": "^3.0.0",
+    "passport": "^0.3.2",
+    "passport-http": "^0.3.0",
+    "request": "^2.83.0"
+  }
+}
