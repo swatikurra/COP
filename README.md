@@ -1,1 +1,1 @@
-# COP
+# Centralized operations and performance
